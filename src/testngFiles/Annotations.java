@@ -13,11 +13,13 @@ public class Annotations {
 	public void UseridGeneration()
 	{
 		System.out.println("This block executes before each Test");
+		System.out.println("This block executes before each Test1");
 	}
 	@BeforeTest
 	public void Cookies()
 	{
 		System.out.println("This block executes Before all  Testcases");
+		System.out.println("This block executes Before all  Testcases2");
 		//delete cookies
 	}
 @AfterTest

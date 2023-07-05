@@ -17,6 +17,7 @@ public void FlightBooking()
 {
 	System.out.println("Executing Flightbooking");
 	System.out.println("Commit demo");
+	System.out.println("Commit demo");
 }
 @Test(timeOut=45000)
 public void Timerelated()
